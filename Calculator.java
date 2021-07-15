@@ -14,4 +14,12 @@ public class Calculator
 	    res = res*x;
         return res;
     }
+
+    public static boolean isEven(int x){
+	return x%2 == 0;
+    }
+	
+    public static void aMethod(){
+	System.out.println("A method is inserted");
+    }
 }
