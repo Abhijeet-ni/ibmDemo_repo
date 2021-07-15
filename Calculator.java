@@ -22,4 +22,8 @@ public class Calculator
     public static void aMethod(){
 	System.out.println("A method is inserted");
     }
+	
+    public static void sayHello(){
+	System.out.println("Hello all...");
+    }
 }
